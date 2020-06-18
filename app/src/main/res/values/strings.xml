@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MqttTest</string>
+    <string name="test_relay_mqtt">Test Relay Mqtt</string>
+    <string name="topic">topic</string>
+    <string name="tekan_aja">tekan aja</string>
+</resources>
