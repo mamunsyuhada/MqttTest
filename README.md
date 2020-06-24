@@ -1,4 +1,12 @@
-# MQTT Android Client
+# MQTT Android Client with Auth (Username & Pass)
+
+## Need to modified
+
+Parameter|Example Value|
+---------|-------------|
+[Host](https://github.com/mamunsyuhada/MqttTest/blob/master/app/src/main/java/com/example/mqtttest/MainActivity.java#L27)|tcp://```yourhost.com```:```port```|
+[Username](https://github.com/mamunsyuhada/MqttTest/blob/master/app/src/main/java/com/example/mqtttest/MainActivity.java#L44)|```User:*:*```|
+[Password](https://github.com/mamunsyuhada/MqttTest/blob/master/app/src/main/java/com/example/mqtttest/MainActivity.java#L45)|```Admin:*:*```|
 
 ## Dependencies Used
 
